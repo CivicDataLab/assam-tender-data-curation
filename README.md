@@ -8,7 +8,7 @@ We have gathered and standardized tender data for last 5 years of Assam. We are 
 Link: [CivicDataLab: Assam Public Procurement Data | #not-to-be-shared](https://github.com/CivicDataLab/assam-tender-data-curation/blob/main/data/CivicDataLab_%20Assam%20Public%20Procurement%20Data%20%7C%20%23not-to-be-shared%20-%20ocds_mapped_compiled.csv)
 
 ### MetaData
-Link to metadata for the above data hhttps://github.com/CivicDataLab/assam-tender-data-curation/blob/main/data/Metadata%20Assam%20Procuremet%20Data.csv
+Link to metadata for the above data https://github.com/CivicDataLab/assam-tender-data-curation/blob/main/data/Metadata%20Assam%20Procuremet%20Data.csv
 
 ### Recommended Steps
 * Design a schema and load this data in a SQL or a no-SQL database and explain us your choice of the database and schema
