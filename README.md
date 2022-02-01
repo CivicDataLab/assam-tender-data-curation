@@ -1,15 +1,14 @@
 ## Assam Tender Data Curation
-Jan 2022 Sprint
 
 ### Our Goal
 We are working closely with the government of Assam to actively identify tenders related to flood preparedness and response. We hope to triangulate this information with other open datasets like satellite imagery, geospatial data, demographic data so that we can build an intelligent data ecosystem to help districts better prepare for floods in Assam. 
 
 ### Available Data
 We have gathered and standardized tender data for last 5 years of Assam. We are currently working to publish this data in the open, but have shared a private version of the data with you here: 
-Link: [CivicDataLab: Assam Public Procurement Data | #not-to-be-shared](https://docs.google.com/spreadsheets/d/1GWqd1_8d5Qg7xW94zNTyCQ2kRao4N1SwfPUZBI2ZmIg/edit#gid=1385883384)
+Link: [CivicDataLab: Assam Public Procurement Data | #not-to-be-shared](https://github.com/CivicDataLab/assam-tender-data-curation/blob/main/data/CivicDataLab_%20Assam%20Public%20Procurement%20Data%20%7C%20%23not-to-be-shared%20-%20ocds_mapped_compiled.csv)
 
 ### MetaData
-Link to metadata for the above data https://docs.google.com/document/d/1VNeIeD2UXVRqljdePML_9Ngr3jt7CJrbuVpQhF0a5po/edit?usp=sharing
+Link to metadata for the above data hhttps://github.com/CivicDataLab/assam-tender-data-curation/blob/main/data/Metadata%20Assam%20Procuremet%20Data.csv
 
 ### Recommended Steps
 * Design a schema and load this data in a SQL or a no-SQL database and explain us your choice of the database and schema
