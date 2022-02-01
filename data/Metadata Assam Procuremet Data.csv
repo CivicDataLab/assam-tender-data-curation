@@ -1,0 +1,33 @@
+Section,Route,Title,Description,Type
+Tender,tender/id,Tender Id,An id to identify this tender. This can be used to derive the name of the department the tender belongs to. OCID has tender id as its suffix,String
+Tender,tender/externalReference,Tender Reference Number,Adds information on top of tender id describing the purpose of tender and place,"String,
+Integer"
+Tender,tender/title,Title,Title of tender,String
+Tender,tender/mainProcurementCategory,Tender Category,"This describes the type of tender. This is broadly divided into Works, Good and Services. This is a closed code list",String
+Tender,tender/procurementMethod,Tender Type,"This describes the bidding method. This is a closed code list, therefore Open was converted to limited and global to open.
+This can be used to gain brief whether the tender is open for international participation.",String
+Tender,tender/contractType,Form of Contract,"Describes the type of contract this includes:
+itemRate
+Fixed-Rate
+ItemWise
+EOI
+lumpSum
+Percentage
+Turn-key",String
+Tender,tender/classification/description,,Further describes the contract type,String
+Tender,tender/submissionMethodDetails,No of Covers,,Integer
+Tender,tender/participationFee/0/multiCurrencyAllowed,Is Multi Currency Allowed For Fee,This is a boolean field which answers if participants as allowed to pay in multi currency,Boolean
+Tender,tender/allowTwoStageTender,Allow Two Stage Bidding,"Two stage tendering is used to allow the early appointment of a contractor, prior to the completion of all the information required to enable them to offer a fixed price.",Boolean
+Tender,tender/value/amount,Tender Value in ₹,The maximum estimated amount for the contract,Float
+Tender,tender/datePublished,Published Date,The date on which the tender was published,Date
+Tender,tender/milestones/dueDate,PreBid Meeting Date,Meeting before opening the bids,Date
+Tender,tender/tenderPeriod/durationInDays,Number of days for which bid submission is allowed,Object,Number of days for which bid submission is allowed
+Tender,tender/allowPreferentialBidder,Allow Preferential Bidder,A company may select certain investors to offer products or services through the use of contracts.,Boolean
+Tender,Payment Mode,Payment Mode,Gives participants information whether participation fee is accepted online/offline or both manners,String
+Tender,tender/status,Status,Status of tender,String
+Tender,tender/stage,Stage,Tender Stage,String
+Tender,tender/numberOfTenderers,Number of Bids Received,Number of bids received for a particular tender,Integer
+Tender,tender/bidOpening/date,Bid Opening Date,Date on which bid is opened,Date
+Tender,tender/milestones,PriceBid Meeting Date,Date when you open the financial bids,Date
+Tender,tender/documents/id,GeMARPTS ID,ID with which the tender is accessible on GEM platform,FLOAT
+Tender,buyer/name,Organisation Chain,Organisation name chain which uses and pays for the tender.,String
