@@ -27,7 +27,7 @@ Link to metadata for the above data https://github.com/CivicDataLab/assam-tender
 1 week. Do get back to us with any questions and clarifications. 
 
 ### How will CDL use the submission?
-One of our key values is openness. Our work is  under CC BY 4.0 license and If you choose to, we are happy to exhibit the submission online through our various channels. You are also free to make it part of your portfolio. In case CivicDataLab ends up using any of your work in our live solution(s), we would ensure full disclosure and fair compensation to the creator accordingly.
+One of our key values is openness. All our code is under open licenses and in case CivicDataLab ends up using any of your work in our live solution(s), we are happy to call out the contribution in relevant channels. You are also free to make it part of your github profile.
 
 ### Co-creation & Collaboration
 At CivicDataLab, we believe in collaboration and co-creation. Feel free to discuss your work with us throughout the given time period either through email or through a scheduled call. We’re more than happy to provide feedback on a continuous basis, and not just at the end of the task. In case you have any questions, don’t hesitate to ping us.
